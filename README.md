@@ -11,6 +11,7 @@ This project is a web application built with [Streamlit](https://streamlit.io/) 
 - **Appearance in anime**
 - **Zodiac sign**
 - **Character group**
+
 ![Bleach Demonstration](https://github.com/Balalaika1/Bleach_Networking_Graph/blob/main/Bleach%20Demonstration.gif)
 ## 🚀 Features
 
