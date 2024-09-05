@@ -1,7 +1,7 @@
 # Character Interaction Graph on Streamlit
 
 ![Banner](lable_bleach.png)
-![Bleach Demonstration](https://github.com/Balalaika1/Bleach_Networking_Graph/blob/main/Bleach%20Demonstration.gif)
+
 ## 📋 Description
 
 This project is a web application built with [Streamlit](https://streamlit.io/) that visualizes a graph of character interactions and provides statistics on the following attributes:
@@ -11,7 +11,7 @@ This project is a web application built with [Streamlit](https://streamlit.io/) 
 - **Appearance in anime**
 - **Zodiac sign**
 - **Character group**
-
+![Bleach Demonstration](https://github.com/Balalaika1/Bleach_Networking_Graph/blob/main/Bleach%20Demonstration.gif)
 ## 🚀 Features
 
 - **Character Interaction Graph:** An interactive visualization showing how characters are connected.
