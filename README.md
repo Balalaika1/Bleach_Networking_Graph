@@ -31,7 +31,7 @@ This project is a web application built with [Streamlit](https://streamlit.io/) 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Balalaika1/Bleach_Networking_Graph.git
    cd your-repository
 
 2. Install the required dependencies:
@@ -39,4 +39,4 @@ This project is a web application built with [Streamlit](https://streamlit.io/) 
    pip install -r requirements.txt
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
